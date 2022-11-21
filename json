@@ -1,138 +1,122 @@
 [
-  {
-  "name": "Milk",
+  {"name": "Milk",
   "regular_price":"6",
   "sale_price":"4.50",
   "description":"Whole milk",
-  "department":"Dairy"
-  },
-   {
-  "name": "Cheese",
+  "department":"Dairy"},
+  
+  {"name": "Cheese",
   "regular_price": "3",
   "sale_price":"1.50",
   "description": "Chedder cheese",
-  "department": "Dairy"
-  },
-   {
-  "name": "Yogurt",
+  "department": "Dairy"},
+   
+  {"name": "Yogurt",
   "regular_price": "6",
   "sale_price":"3",
   "description": "Strawberry",
-  "department": "Dairy"
-  },
-     {
-  "name": "Butter",
+  "department": "Dairy"},
+  
+  {"name": "Butter",
   "regular_price": "4",
   "sale_price":"3.50",
   "description": "Salted or Unsalted",
-  "department": "Dairy"
-  },
-  "name": "Sandwich bread",
+  "department": "Dairy"},
+  
+  {"name": "Sandwich bread",
   "regular_price": "4",
   "sale_price":"2.50",
   "description":"White bread",
-  "department": "Bread"
-  },
-   {
-  "name": "Bagels",
+  "department": "Bread"},
+  
+  {"name": "Bagels",
   "regular_price": "5",
   "sale_price": "3.50",
   "description": "Blueberry",
-  "department":"Bread"
-  },
-   {
-  "name": "English Muffins",
+  "department":"Bread"},
+   
+  {"name": "English Muffins",
   "regular_price": "5",
   "sale_price":"4",
   "description":"Whole wheat",
-  "department":"Bread"
-  },
-     {
-  "name": "Tortillas",
+  "department":"Bread"},
+     
+  {"name": "Tortillas",
   "regular_price": "4",
   "sale_price": "3",
   "description": "Flour tortillas",
-  "department":"Bread"
-  },
-  "name": "Chicken",
+  "department":"Bread"},
+  
+  {"name": "Chicken",
   "regular_price": "7",
   "sale_price":"5.50:,
   "description": "Chicken thighs only",
-  "department":"Meat"
-  },
-   {
-  "name": "Fish",
+  "department":"Meat"},
+  
+  {"name": "Fish",
   "regular_price": "14",
   "sale_price":"10",
   "description":"Salmon",
-  "department":"Meat"
-  },
-   {
-  "name": "Ground Beef",
+  "department":"Meat"},
+  
+  {"name": "Ground Beef",
   "regular_price": "10",
   "sale_price":"6",
   "description":"93% lean",
-  "department":"Meat"
-  },
-     {
-  "name": "Turkey",
+  "department":"Meat"},
+  
+  {"name": "Turkey",
   "regular_price": "16",
   "sale_price": "14",
   "description": "13lb turkey",
-  "department": "Meat"
-  },
-  "name": "Coffee",
+  "department": "Meat"},
+  
+  
+  {"name": "Coffee",
   "regular_price": "10",
   "sale_price":"8",
   "description": "Dark Roast",
-  "department": "Drinks"
-  },
-   {
-  "name": "Tea",
+  "department": "Drinks"},
+  
+  {"name": "Tea",
   "regular_price": "7",
   "sale_price": "5",
   "description": "Lipton tea",
-  "department": "Drinks"
-  },
-   {
-  "name": "Soda",
+  "department": "Drinks"},
+  
+  {"name": "Soda",
   "regular_price": "3",
   "sale_price": "1.50",
   "description": "All cola products",
-  "department": "Drinks"
-  },
-     {
-  "name": "Juice",
+  "department": "Drinks"},
+     
+  {"name": "Juice",
   "regular_price": "5",
   "sale_price": "3",
   "description": "Orange and Apple juice",
-  "department": "Drinks"
-  },
-  "name": "Icecream",
+  "department": "Drinks"},
+  
+  {"name": "Icecream",
   "regular_price": "8",
   "sale price": "6",
   "description":" Blue Bell icecream",
-  "department": "Frozen"
-  },
-   {
-  "name": "Pizza",
+  "department": "Frozen"},
+   
+  {"name": "Pizza",
   "regular_price": "10",
   "sale_price": "7",
   "description":"Pepperoni pizza",
-  "department": "Frozen"
-  },
-   {
-  "name": "Mac and Cheese",
+  "department": "Frozen"},
+   
+  {"name": "Mac and Cheese",
   "regular_price": "7",
   "sale_price": "5",
   "description": "White Cheddar mac",
-  "department": "Frozen"
-  },
-     {
-  "name": "French Fries",
+  "department": "Frozen"},
+
+  {"name": "French Fries",
   "regular_price": "7",
   "sale_price":"5",
   "description":"Waffle fries",
-  "department": "Frozen"
-  }
+  "department": "Frozen"}
 ]
