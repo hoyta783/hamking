@@ -1,0 +1,138 @@
+[
+  {
+  "name": "Milk",
+  "regular price":"6",
+  "sale price":"4.50",
+  "description":"Whole milk",
+  "department":"Dairy"
+  },
+   {
+  "name": "Cheese",
+  "regular price": "3",
+  "sale price":"1.50",
+  "description": "Chedder cheese",
+  "department": "Dairy"
+  },
+   {
+  "name": "Yogurt",
+  "regular price": "6",
+  "sale price":"3",
+  "description": "Strawberry",
+  "department": "Dairy"
+  },
+     {
+  "name": "Butter",
+  "regular price": "4",
+  "sale price":"3.50",
+  "description": "Salted or Unsalted",
+  "department": "Dairy"
+  },
+  "name": "Sandwich bread",
+  "regular price": "4",
+  "sale price":"2.50",
+  "description":"White bread",
+  "department": "Bread"
+  },
+   {
+  "name": "Bagels",
+  "regular price": "5",
+  "sale price": "3.50",
+  "description": "Blueberry",
+  "department":"Bread"
+  },
+   {
+  "name": "English Muffins",
+  "regular price": "5",
+  "sale price":"4",
+  "description":"Whole wheat",
+  "department":"Bread"
+  },
+     {
+  "name": "Tortillas",
+  "regular price": "4",
+  "sale price": "3",
+  "description": "Flour tortillas",
+  "department":"Bread"
+  },
+  "name": "Chicken",
+  "regular price": "7",
+  "sale price":"5.50:,
+  "description": "Chicken thighs only",
+  "department":"Meat"
+  },
+   {
+  "name": "Fish",
+  "regular price": "14",
+  "sale price":"10",
+  "description":"Salmon",
+  "department":"Meat"
+  },
+   {
+  "name": "Ground Beef",
+  "regular price": "10",
+  "sale price":"6",
+  "description":"93% lean",
+  "department":"Meat"
+  },
+     {
+  "name": "Turkey",
+  "regular price": "16",
+  "sale price": "14",
+  "description": "13lb turkey",
+  "department": "Meat"
+  },
+  "name": "Coffee",
+  "regular price": "10",
+  "sale price":"8",
+  "description": "Dark Roast",
+  "department": "Drinks"
+  },
+   {
+  "name": "Tea",
+  "regular price": "7",
+  "sale price": "5",
+  "description": "Lipton tea",
+  "department": "Drinks"
+  },
+   {
+  "name": "Soda",
+  "regular price": "3",
+  "sale price": "1.50",
+  "description": "All cola products",
+  "department": "Drinks"
+  },
+     {
+  "name": "Juice",
+  "regular price": "5",
+  "sale price": "3",
+  "description": "Orange and Apple juice",
+  "department": "Drinks"
+  },
+  "name": "Icecream",
+  "regular price": "8",
+  "sale price": "6",
+  "description":" Blue Bell icecream",
+  "department": "Frozen"
+  },
+   {
+  "name": "Pizza",
+  "regular price": "10",
+  "sale price": "7",
+  "description":"Pepperoni pizza",
+  "department": "Frozen"
+  },
+   {
+  "name": "Mac and Cheese",
+  "regular price": "7",
+  "sale price": "5",
+  "description": "White Cheddar mac",
+  "department": "Frozen"
+  },
+     {
+  "name": "French Fries",
+  "regular price": "7",
+  "sale price":"5",
+  "description":"Waffle fries",
+  "department": "Frozen"
+  }
+]
